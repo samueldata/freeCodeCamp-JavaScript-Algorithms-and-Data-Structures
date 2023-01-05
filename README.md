@@ -13,7 +13,7 @@ profile: https://www.freecodecamp.org/samsilva
 
 ---
 
-Each module contains lessons separated by files. In these files of each folder, before starting the code, the proposed activity are commented out followed by the solution in code.
+Each module contains lessons separated by files. In these files of each folder, before starting the code, the proposed activity are commented out followed by the solution.
 
 The respective courses are being taken:
 
